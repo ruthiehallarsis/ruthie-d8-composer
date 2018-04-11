@@ -1,0 +1,14 @@
+uuid: dcfb97da-c804-4339-be5e-b1d939b74b37
+name: ruthie-d8-composer
+mail: ruthie@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
