@@ -1,0 +1,18 @@
+uuid: 6b5a3c06-212a-4de6-b29f-63cfb8f9376e
+langcode: en
+status: true
+dependencies:
+  config:
+    - search_api.index.main_search
+id: main_search
+label: 'Main Search'
+path: main-search
+clean_url: true
+show_all_when_no_keys: false
+index: main_search
+limit: 10
+searched_fields:
+  body: body
+style: search_results
+view_mode_configuration: {  }
+show_search_form: true
