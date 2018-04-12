@@ -9,4 +9,4 @@ Feature: Create Content through Drupal Content UI
     And I am on "/node/add/page"
     And I enter "Test Page" for "Title"
     And I press "Save"
-    Then I should see "Basic page Test Page has been created."
+    Then I should see "Test Page</a></em> has been created."
