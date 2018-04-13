@@ -26,6 +26,7 @@
         "drupal/search_api_page": "^1.0@alpha",
         "drupal/search_api_pantheon": "~1.0",
         "drupal/simple_block": "^1.0@beta",
+        "drupal/verti": "^1.83",
         "drush-ops/behat-drush-endpoint": "^0.0.5",
         "drush/drush": "~8",
         "pantheon-systems/quicksilver-pushback": "~1",
