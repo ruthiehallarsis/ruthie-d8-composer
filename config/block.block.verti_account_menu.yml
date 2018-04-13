@@ -1,0 +1,26 @@
+uuid: b6104b72-a6e8-414f-b377-2f66e5045326
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.account
+  module:
+    - system
+  theme:
+    - verti
+_core:
+  default_config_hash: hbVmMch7x9MGLc5b5DXPirvccrxgGw7YzFWhXwjF-JY
+id: verti_account_menu
+theme: verti
+region: sidebar_first
+weight: -2
+provider: null
+plugin: 'system_menu_block:account'
+settings:
+  id: 'system_menu_block:account'
+  label: 'User account menu'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 2
+visibility: {  }

@@ -1,0 +1,20 @@
+uuid: b55903f7-cb82-43a3-b65b-b6565484c7c5
+langcode: en
+status: true
+dependencies:
+  theme:
+    - verti
+_core:
+  default_config_hash: gen2yTIyCqgIe-ymaUKsFlnA8f7ZR4n8NH8J6MrNll4
+id: verti_page_title
+theme: verti
+region: content
+weight: 0
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

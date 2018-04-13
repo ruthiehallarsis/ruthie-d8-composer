@@ -1,0 +1,26 @@
+uuid: 78d30ff2-a0e9-4281-af91-eb460d2e3a4e
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - verti
+_core:
+  default_config_hash: jetrDbpdYNq7LlNHfcHbTEYxfibXtYgA0wQLh29jIlE
+id: verti_main_menu
+theme: verti
+region: primary_menu
+weight: -3
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 2
+visibility: {  }

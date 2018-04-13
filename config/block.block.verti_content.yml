@@ -1,0 +1,22 @@
+uuid: 4938cdda-d0f7-48a0-b4b1-48a946b87927
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - verti
+_core:
+  default_config_hash: CPnRPneQFPP-Ed5eUhtvX7dBqMDrsSr11uvLEqQE-Uc
+id: verti_content
+theme: verti
+region: content
+weight: 2
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }
