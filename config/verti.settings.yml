@@ -1,0 +1,14 @@
+features:
+  comment_user_picture: true
+  comment_user_verification: true
+  favicon: true
+  logo: false
+  name: true
+  node_user_picture: true
+  slogan: true
+show_footer_menu: 1
+footer_menu_item_1: '© Untitled. All rights reserved'
+footer_menu_item_2: 'Design: HTML5 UP'
+footer_menu_item_3: 'Demo Images: Unsplash'
+_core:
+  default_config_hash: tnvPZ8-upvsyjBj9oJ3FDahgFzmiblJp9yye-Aqj-s8

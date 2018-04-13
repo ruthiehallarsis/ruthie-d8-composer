@@ -1,0 +1,25 @@
+uuid: 0733ff9e-55d7-4e20-a35c-8df96a89d6f8
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - verti
+_core:
+  default_config_hash: KWwHTupahJiz_6yq4AFAxQbX1Zs1AZyGnOkzLfV9BAc
+id: verti_branding
+theme: verti
+region: header
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  provider: system
+  label_display: '0'
+  use_site_logo: false
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }
